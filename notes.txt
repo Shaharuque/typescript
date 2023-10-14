@@ -1,0 +1,1 @@
+tsc =>convert ts file to js file
